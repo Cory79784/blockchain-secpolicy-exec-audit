@@ -1,7 +1,7 @@
 "# My Solidity Project" 
 
-![DSR](C:\Users\94513\Downloads\DSR.svg)
+![DSR](https://github.com/Cory79784/blockchain-secpolicy-exec-audit/blob/master/images/DSR%20Diagram.svg)
 
-![Blank diagram](C:\Users\94513\Downloads\Blank diagram.svg)
+![Blank diagram](https://github.com/Cory79784/blockchain-secpolicy-exec-audit/blob/master/images/Artefact%20Diagram.svg)
 
-![Blank diagram (1)](C:\Users\94513\Downloads\Blank diagram (1).svg)
+![Blank diagram (1)](https://github.com/Cory79784/blockchain-secpolicy-exec-audit/blob/master/images/Eval%20Diagram.svg)
