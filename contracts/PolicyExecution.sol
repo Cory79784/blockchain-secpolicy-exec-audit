@@ -2,11 +2,11 @@
 pragma solidity ^0.8.20;
 
 import "./TenantManagement.sol";
-import "./AuditLogging.sol";
+
 
 contract PolicyExecution {
     TenantManagement private tenantManager;
-    AuditLogging private auditLogger;
+//    AuditLogging private auditLogger;//
 
     struct Policy {
         uint policyId;
@@ -23,7 +23,7 @@ contract PolicyExecution {
 
     constructor(address _tenantManager, address _auditLogger) {
         tenantManager = TenantManagement(_tenantManager);
-        auditLogger = AuditLogging(_auditLogger);
+    // auditLogger = AuditLogging(_auditLogger); // 注释掉
     }
 
     modifier onlyTenant() {
@@ -41,7 +41,7 @@ contract PolicyExecution {
         require(policies[_policyId].owner == msg.sender, "Not policy owner");
 
         // 触发审计日志
-        auditLogger.recordLog(msg.sender, _policyId, "Executed Policy");
+     //   auditLogger.recordLog(msg.sender, _policyId, "Executed Policy");  //
 
         emit PolicyExecuted(_policyId, msg.sender);
     }
