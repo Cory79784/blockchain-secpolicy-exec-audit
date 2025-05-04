@@ -1,9 +1,0 @@
-Time,UserID,EventType,EventStatus,ClientAddress,ResourceAccessed,CompulsoryEvent,ComponentID,AuditCategory,AppId,ClusterId,NodeId
-14:12:35.123,User245,User Logging,Failure,https://64.103.237.53:tcp:54665,AppAdmin,Yes,Administration,Authentication attempt failed,10023,1,ucx-93-55
-12:45:22.891,User678,User Logging,Success,https://198.162.43.12:tcp:55432,AppAdmin,No,Administration,Successful login,10057,1,ucx-93-55
-15:10:45.763,User302,User Logging,Failure,https://192.168.1.21:tcp:58732,AppAdmin,Yes,Administration,Authentication attempt failed,10089,1,ucx-93-55
-13:27:56.534,User556,User Logging,Success,https://172.16.0.45:tcp:52312,AppAdmin,No,Administration,Successful login,10034,1,ucx-93-55
-16:05:33.217,User128,User Logging,Failure,https://203.142.76.98:tcp:53211,AppAdmin,Yes,Administration,Authentication attempt failed,10077,1,ucx-93-55
-11:59:48.672,User409,User Logging,Success,https://150.45.23.87:tcp:59001,AppAdmin,No,Administration,Successful login,10042,1,ucx-93-55
-14:32:18.908,User321,User Logging,Failure,https://210.76.43.21:tcp:57543,AppAdmin,Yes,Administration,Authentication attempt failed,10065,1,ucx-93-55
-10:55:29.784,User731,User Logging,Success,https://68.142.123.21:tcp:56432,AppAdmin,No,Administration,Successful login,10093,1,ucx-93-55
