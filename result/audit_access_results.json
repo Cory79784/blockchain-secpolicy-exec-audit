@@ -1,0 +1,2202 @@
+[
+  {
+    "reader": "tenant_0",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "69d4c497-9c43-4d1c-9469-e8c5dfde8a76",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "656dc18c-7ee7-4d0b-bc34-05dec8636af8",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_0",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "0b914edb-2cc5-4557-ab79-56fbc9bbca88",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "3223b020-bd73-4cc4-93b9-db1da38d4960",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_0",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "06ebfcc5-d2e1-41ee-aeec-32069d6af3c3",
+      "action_type": "login",
+      "policy_version": "v1.0",
+      "event_id": "b6afe6d0-0d33-4815-bb07-10ed78c21677",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_0",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5eb36cf2-31cf-4096-aa4c-d024160edb29",
+      "action_type": "login",
+      "policy_version": "v4.0",
+      "event_id": "57fe7a84-29c3-4ef3-bc8d-d027a528aebf",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_0",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "ea17c338-fde5-4fd2-815d-ad37d7adba9a",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "c976fda5-9b88-4241-88ec-1e7a3e215cee",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_0",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "f505e2f5-4671-4e7b-ba0d-832b741e3d68",
+      "action_type": "login",
+      "policy_version": "v3.0",
+      "event_id": "582cab22-5fd4-4785-9e67-b3806a3ce574",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_0",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68e66cd3-4314-43cb-ab69-cd3fd38a2f36",
+      "action_type": "modify_settings",
+      "policy_version": "v3.0",
+      "event_id": "d36f2472-f36b-465e-8233-551b881d4233",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_0",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5f382528-bb80-4ad1-9b00-850fb8c129a2",
+      "action_type": "login",
+      "policy_version": "v2.0",
+      "event_id": "c4f0bb39-7858-4447-a873-cc465467013c",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_0",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "3f53065f-4f3b-4a52-b6b3-2cd07e61d304",
+      "action_type": "modify_settings",
+      "policy_version": "v4.0",
+      "event_id": "34ff1e51-8180-46d5-b1a8-88256d969761",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_0",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68154b84-ced1-432a-9bba-6764a2aea084",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "4a05c5f6-682d-4533-9cbe-0e6addbe00cc",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_1",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "69d4c497-9c43-4d1c-9469-e8c5dfde8a76",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "656dc18c-7ee7-4d0b-bc34-05dec8636af8",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_1",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "0b914edb-2cc5-4557-ab79-56fbc9bbca88",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "3223b020-bd73-4cc4-93b9-db1da38d4960",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_1",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "06ebfcc5-d2e1-41ee-aeec-32069d6af3c3",
+      "action_type": "login",
+      "policy_version": "v1.0",
+      "event_id": "b6afe6d0-0d33-4815-bb07-10ed78c21677",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_1",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5eb36cf2-31cf-4096-aa4c-d024160edb29",
+      "action_type": "login",
+      "policy_version": "v4.0",
+      "event_id": "57fe7a84-29c3-4ef3-bc8d-d027a528aebf",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_1",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "ea17c338-fde5-4fd2-815d-ad37d7adba9a",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "c976fda5-9b88-4241-88ec-1e7a3e215cee",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_1",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "f505e2f5-4671-4e7b-ba0d-832b741e3d68",
+      "action_type": "login",
+      "policy_version": "v3.0",
+      "event_id": "582cab22-5fd4-4785-9e67-b3806a3ce574",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_1",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68e66cd3-4314-43cb-ab69-cd3fd38a2f36",
+      "action_type": "modify_settings",
+      "policy_version": "v3.0",
+      "event_id": "d36f2472-f36b-465e-8233-551b881d4233",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_1",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5f382528-bb80-4ad1-9b00-850fb8c129a2",
+      "action_type": "login",
+      "policy_version": "v2.0",
+      "event_id": "c4f0bb39-7858-4447-a873-cc465467013c",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_1",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "3f53065f-4f3b-4a52-b6b3-2cd07e61d304",
+      "action_type": "modify_settings",
+      "policy_version": "v4.0",
+      "event_id": "34ff1e51-8180-46d5-b1a8-88256d969761",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_1",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68154b84-ced1-432a-9bba-6764a2aea084",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "4a05c5f6-682d-4533-9cbe-0e6addbe00cc",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_2",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "69d4c497-9c43-4d1c-9469-e8c5dfde8a76",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "656dc18c-7ee7-4d0b-bc34-05dec8636af8",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_2",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "0b914edb-2cc5-4557-ab79-56fbc9bbca88",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "3223b020-bd73-4cc4-93b9-db1da38d4960",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_2",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "06ebfcc5-d2e1-41ee-aeec-32069d6af3c3",
+      "action_type": "login",
+      "policy_version": "v1.0",
+      "event_id": "b6afe6d0-0d33-4815-bb07-10ed78c21677",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_2",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5eb36cf2-31cf-4096-aa4c-d024160edb29",
+      "action_type": "login",
+      "policy_version": "v4.0",
+      "event_id": "57fe7a84-29c3-4ef3-bc8d-d027a528aebf",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_2",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "ea17c338-fde5-4fd2-815d-ad37d7adba9a",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "c976fda5-9b88-4241-88ec-1e7a3e215cee",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_2",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "f505e2f5-4671-4e7b-ba0d-832b741e3d68",
+      "action_type": "login",
+      "policy_version": "v3.0",
+      "event_id": "582cab22-5fd4-4785-9e67-b3806a3ce574",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_2",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68e66cd3-4314-43cb-ab69-cd3fd38a2f36",
+      "action_type": "modify_settings",
+      "policy_version": "v3.0",
+      "event_id": "d36f2472-f36b-465e-8233-551b881d4233",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_2",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5f382528-bb80-4ad1-9b00-850fb8c129a2",
+      "action_type": "login",
+      "policy_version": "v2.0",
+      "event_id": "c4f0bb39-7858-4447-a873-cc465467013c",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_2",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "3f53065f-4f3b-4a52-b6b3-2cd07e61d304",
+      "action_type": "modify_settings",
+      "policy_version": "v4.0",
+      "event_id": "34ff1e51-8180-46d5-b1a8-88256d969761",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_2",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68154b84-ced1-432a-9bba-6764a2aea084",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "4a05c5f6-682d-4533-9cbe-0e6addbe00cc",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_3",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "69d4c497-9c43-4d1c-9469-e8c5dfde8a76",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "656dc18c-7ee7-4d0b-bc34-05dec8636af8",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_3",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "0b914edb-2cc5-4557-ab79-56fbc9bbca88",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "3223b020-bd73-4cc4-93b9-db1da38d4960",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_3",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "06ebfcc5-d2e1-41ee-aeec-32069d6af3c3",
+      "action_type": "login",
+      "policy_version": "v1.0",
+      "event_id": "b6afe6d0-0d33-4815-bb07-10ed78c21677",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_3",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5eb36cf2-31cf-4096-aa4c-d024160edb29",
+      "action_type": "login",
+      "policy_version": "v4.0",
+      "event_id": "57fe7a84-29c3-4ef3-bc8d-d027a528aebf",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_3",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "ea17c338-fde5-4fd2-815d-ad37d7adba9a",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "c976fda5-9b88-4241-88ec-1e7a3e215cee",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_3",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "f505e2f5-4671-4e7b-ba0d-832b741e3d68",
+      "action_type": "login",
+      "policy_version": "v3.0",
+      "event_id": "582cab22-5fd4-4785-9e67-b3806a3ce574",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_3",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68e66cd3-4314-43cb-ab69-cd3fd38a2f36",
+      "action_type": "modify_settings",
+      "policy_version": "v3.0",
+      "event_id": "d36f2472-f36b-465e-8233-551b881d4233",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_3",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5f382528-bb80-4ad1-9b00-850fb8c129a2",
+      "action_type": "login",
+      "policy_version": "v2.0",
+      "event_id": "c4f0bb39-7858-4447-a873-cc465467013c",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_3",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "3f53065f-4f3b-4a52-b6b3-2cd07e61d304",
+      "action_type": "modify_settings",
+      "policy_version": "v4.0",
+      "event_id": "34ff1e51-8180-46d5-b1a8-88256d969761",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_3",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68154b84-ced1-432a-9bba-6764a2aea084",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "4a05c5f6-682d-4533-9cbe-0e6addbe00cc",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_4",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "69d4c497-9c43-4d1c-9469-e8c5dfde8a76",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "656dc18c-7ee7-4d0b-bc34-05dec8636af8",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_4",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "0b914edb-2cc5-4557-ab79-56fbc9bbca88",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "3223b020-bd73-4cc4-93b9-db1da38d4960",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_4",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "06ebfcc5-d2e1-41ee-aeec-32069d6af3c3",
+      "action_type": "login",
+      "policy_version": "v1.0",
+      "event_id": "b6afe6d0-0d33-4815-bb07-10ed78c21677",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_4",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5eb36cf2-31cf-4096-aa4c-d024160edb29",
+      "action_type": "login",
+      "policy_version": "v4.0",
+      "event_id": "57fe7a84-29c3-4ef3-bc8d-d027a528aebf",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_4",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "ea17c338-fde5-4fd2-815d-ad37d7adba9a",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "c976fda5-9b88-4241-88ec-1e7a3e215cee",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_4",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "f505e2f5-4671-4e7b-ba0d-832b741e3d68",
+      "action_type": "login",
+      "policy_version": "v3.0",
+      "event_id": "582cab22-5fd4-4785-9e67-b3806a3ce574",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_4",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68e66cd3-4314-43cb-ab69-cd3fd38a2f36",
+      "action_type": "modify_settings",
+      "policy_version": "v3.0",
+      "event_id": "d36f2472-f36b-465e-8233-551b881d4233",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_4",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5f382528-bb80-4ad1-9b00-850fb8c129a2",
+      "action_type": "login",
+      "policy_version": "v2.0",
+      "event_id": "c4f0bb39-7858-4447-a873-cc465467013c",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_4",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "3f53065f-4f3b-4a52-b6b3-2cd07e61d304",
+      "action_type": "modify_settings",
+      "policy_version": "v4.0",
+      "event_id": "34ff1e51-8180-46d5-b1a8-88256d969761",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_4",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68154b84-ced1-432a-9bba-6764a2aea084",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "4a05c5f6-682d-4533-9cbe-0e6addbe00cc",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_5",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "69d4c497-9c43-4d1c-9469-e8c5dfde8a76",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "656dc18c-7ee7-4d0b-bc34-05dec8636af8",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_5",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "0b914edb-2cc5-4557-ab79-56fbc9bbca88",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "3223b020-bd73-4cc4-93b9-db1da38d4960",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_5",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "06ebfcc5-d2e1-41ee-aeec-32069d6af3c3",
+      "action_type": "login",
+      "policy_version": "v1.0",
+      "event_id": "b6afe6d0-0d33-4815-bb07-10ed78c21677",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_5",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5eb36cf2-31cf-4096-aa4c-d024160edb29",
+      "action_type": "login",
+      "policy_version": "v4.0",
+      "event_id": "57fe7a84-29c3-4ef3-bc8d-d027a528aebf",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_5",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "ea17c338-fde5-4fd2-815d-ad37d7adba9a",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "c976fda5-9b88-4241-88ec-1e7a3e215cee",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_5",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "f505e2f5-4671-4e7b-ba0d-832b741e3d68",
+      "action_type": "login",
+      "policy_version": "v3.0",
+      "event_id": "582cab22-5fd4-4785-9e67-b3806a3ce574",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_5",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68e66cd3-4314-43cb-ab69-cd3fd38a2f36",
+      "action_type": "modify_settings",
+      "policy_version": "v3.0",
+      "event_id": "d36f2472-f36b-465e-8233-551b881d4233",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_5",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5f382528-bb80-4ad1-9b00-850fb8c129a2",
+      "action_type": "login",
+      "policy_version": "v2.0",
+      "event_id": "c4f0bb39-7858-4447-a873-cc465467013c",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_5",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "3f53065f-4f3b-4a52-b6b3-2cd07e61d304",
+      "action_type": "modify_settings",
+      "policy_version": "v4.0",
+      "event_id": "34ff1e51-8180-46d5-b1a8-88256d969761",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_5",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68154b84-ced1-432a-9bba-6764a2aea084",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "4a05c5f6-682d-4533-9cbe-0e6addbe00cc",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_6",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "69d4c497-9c43-4d1c-9469-e8c5dfde8a76",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "656dc18c-7ee7-4d0b-bc34-05dec8636af8",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_6",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "0b914edb-2cc5-4557-ab79-56fbc9bbca88",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "3223b020-bd73-4cc4-93b9-db1da38d4960",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_6",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "06ebfcc5-d2e1-41ee-aeec-32069d6af3c3",
+      "action_type": "login",
+      "policy_version": "v1.0",
+      "event_id": "b6afe6d0-0d33-4815-bb07-10ed78c21677",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_6",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5eb36cf2-31cf-4096-aa4c-d024160edb29",
+      "action_type": "login",
+      "policy_version": "v4.0",
+      "event_id": "57fe7a84-29c3-4ef3-bc8d-d027a528aebf",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_6",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "ea17c338-fde5-4fd2-815d-ad37d7adba9a",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "c976fda5-9b88-4241-88ec-1e7a3e215cee",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_6",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "f505e2f5-4671-4e7b-ba0d-832b741e3d68",
+      "action_type": "login",
+      "policy_version": "v3.0",
+      "event_id": "582cab22-5fd4-4785-9e67-b3806a3ce574",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_6",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68e66cd3-4314-43cb-ab69-cd3fd38a2f36",
+      "action_type": "modify_settings",
+      "policy_version": "v3.0",
+      "event_id": "d36f2472-f36b-465e-8233-551b881d4233",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_6",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5f382528-bb80-4ad1-9b00-850fb8c129a2",
+      "action_type": "login",
+      "policy_version": "v2.0",
+      "event_id": "c4f0bb39-7858-4447-a873-cc465467013c",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_6",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "3f53065f-4f3b-4a52-b6b3-2cd07e61d304",
+      "action_type": "modify_settings",
+      "policy_version": "v4.0",
+      "event_id": "34ff1e51-8180-46d5-b1a8-88256d969761",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_6",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68154b84-ced1-432a-9bba-6764a2aea084",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "4a05c5f6-682d-4533-9cbe-0e6addbe00cc",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_7",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "69d4c497-9c43-4d1c-9469-e8c5dfde8a76",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "656dc18c-7ee7-4d0b-bc34-05dec8636af8",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_7",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "0b914edb-2cc5-4557-ab79-56fbc9bbca88",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "3223b020-bd73-4cc4-93b9-db1da38d4960",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_7",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "06ebfcc5-d2e1-41ee-aeec-32069d6af3c3",
+      "action_type": "login",
+      "policy_version": "v1.0",
+      "event_id": "b6afe6d0-0d33-4815-bb07-10ed78c21677",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_7",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5eb36cf2-31cf-4096-aa4c-d024160edb29",
+      "action_type": "login",
+      "policy_version": "v4.0",
+      "event_id": "57fe7a84-29c3-4ef3-bc8d-d027a528aebf",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_7",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "ea17c338-fde5-4fd2-815d-ad37d7adba9a",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "c976fda5-9b88-4241-88ec-1e7a3e215cee",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_7",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "f505e2f5-4671-4e7b-ba0d-832b741e3d68",
+      "action_type": "login",
+      "policy_version": "v3.0",
+      "event_id": "582cab22-5fd4-4785-9e67-b3806a3ce574",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_7",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68e66cd3-4314-43cb-ab69-cd3fd38a2f36",
+      "action_type": "modify_settings",
+      "policy_version": "v3.0",
+      "event_id": "d36f2472-f36b-465e-8233-551b881d4233",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_7",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5f382528-bb80-4ad1-9b00-850fb8c129a2",
+      "action_type": "login",
+      "policy_version": "v2.0",
+      "event_id": "c4f0bb39-7858-4447-a873-cc465467013c",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_7",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "3f53065f-4f3b-4a52-b6b3-2cd07e61d304",
+      "action_type": "modify_settings",
+      "policy_version": "v4.0",
+      "event_id": "34ff1e51-8180-46d5-b1a8-88256d969761",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_7",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68154b84-ced1-432a-9bba-6764a2aea084",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "4a05c5f6-682d-4533-9cbe-0e6addbe00cc",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_8",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "69d4c497-9c43-4d1c-9469-e8c5dfde8a76",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "656dc18c-7ee7-4d0b-bc34-05dec8636af8",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_8",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "0b914edb-2cc5-4557-ab79-56fbc9bbca88",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "3223b020-bd73-4cc4-93b9-db1da38d4960",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_8",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "06ebfcc5-d2e1-41ee-aeec-32069d6af3c3",
+      "action_type": "login",
+      "policy_version": "v1.0",
+      "event_id": "b6afe6d0-0d33-4815-bb07-10ed78c21677",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_8",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5eb36cf2-31cf-4096-aa4c-d024160edb29",
+      "action_type": "login",
+      "policy_version": "v4.0",
+      "event_id": "57fe7a84-29c3-4ef3-bc8d-d027a528aebf",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_8",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "ea17c338-fde5-4fd2-815d-ad37d7adba9a",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "c976fda5-9b88-4241-88ec-1e7a3e215cee",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_8",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "f505e2f5-4671-4e7b-ba0d-832b741e3d68",
+      "action_type": "login",
+      "policy_version": "v3.0",
+      "event_id": "582cab22-5fd4-4785-9e67-b3806a3ce574",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_8",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68e66cd3-4314-43cb-ab69-cd3fd38a2f36",
+      "action_type": "modify_settings",
+      "policy_version": "v3.0",
+      "event_id": "d36f2472-f36b-465e-8233-551b881d4233",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_8",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5f382528-bb80-4ad1-9b00-850fb8c129a2",
+      "action_type": "login",
+      "policy_version": "v2.0",
+      "event_id": "c4f0bb39-7858-4447-a873-cc465467013c",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_8",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "3f53065f-4f3b-4a52-b6b3-2cd07e61d304",
+      "action_type": "modify_settings",
+      "policy_version": "v4.0",
+      "event_id": "34ff1e51-8180-46d5-b1a8-88256d969761",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_8",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68154b84-ced1-432a-9bba-6764a2aea084",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "4a05c5f6-682d-4533-9cbe-0e6addbe00cc",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_9",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "69d4c497-9c43-4d1c-9469-e8c5dfde8a76",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "656dc18c-7ee7-4d0b-bc34-05dec8636af8",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_9",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "0b914edb-2cc5-4557-ab79-56fbc9bbca88",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "3223b020-bd73-4cc4-93b9-db1da38d4960",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_9",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "06ebfcc5-d2e1-41ee-aeec-32069d6af3c3",
+      "action_type": "login",
+      "policy_version": "v1.0",
+      "event_id": "b6afe6d0-0d33-4815-bb07-10ed78c21677",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_9",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5eb36cf2-31cf-4096-aa4c-d024160edb29",
+      "action_type": "login",
+      "policy_version": "v4.0",
+      "event_id": "57fe7a84-29c3-4ef3-bc8d-d027a528aebf",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_9",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "ea17c338-fde5-4fd2-815d-ad37d7adba9a",
+      "action_type": "modify_settings",
+      "policy_version": "v1.0",
+      "event_id": "c976fda5-9b88-4241-88ec-1e7a3e215cee",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_9",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "f505e2f5-4671-4e7b-ba0d-832b741e3d68",
+      "action_type": "login",
+      "policy_version": "v3.0",
+      "event_id": "582cab22-5fd4-4785-9e67-b3806a3ce574",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_9",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68e66cd3-4314-43cb-ab69-cd3fd38a2f36",
+      "action_type": "modify_settings",
+      "policy_version": "v3.0",
+      "event_id": "d36f2472-f36b-465e-8233-551b881d4233",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_9",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "5f382528-bb80-4ad1-9b00-850fb8c129a2",
+      "action_type": "login",
+      "policy_version": "v2.0",
+      "event_id": "c4f0bb39-7858-4447-a873-cc465467013c",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_9",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "3f53065f-4f3b-4a52-b6b3-2cd07e61d304",
+      "action_type": "modify_settings",
+      "policy_version": "v4.0",
+      "event_id": "34ff1e51-8180-46d5-b1a8-88256d969761",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_9",
+    "readerType": "type2",
+    "readerLevel": "Cloud Admin",
+    "record": {
+      "userID": "68154b84-ced1-432a-9bba-6764a2aea084",
+      "action_type": "access_file",
+      "policy_version": "v2.0",
+      "event_id": "4a05c5f6-682d-4533-9cbe-0e6addbe00cc",
+      "timestamp": "28:58.8",
+      "tenant_type": "type2"
+    }
+  },
+  {
+    "reader": "tenant_149",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_149",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_149",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_149",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_149",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_149",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_149",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_149",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_149",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_149",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_150",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_150",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_150",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_150",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_150",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_150",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_150",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_150",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_150",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_150",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_151",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_151",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_151",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_151",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_151",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_151",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_151",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_151",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_151",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_151",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_152",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_152",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_152",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_152",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_152",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_152",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_152",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_152",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_152",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_152",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_153",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_153",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_153",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_153",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_153",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_153",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_153",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_153",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_153",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_153",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_154",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_154",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_154",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_154",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_154",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_154",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_154",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_154",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_154",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_154",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_155",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_155",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_155",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_155",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_155",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_155",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_155",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_155",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_155",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_155",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_156",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_156",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_156",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_156",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_156",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_156",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_156",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_156",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_156",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_156",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_157",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_157",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_157",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_157",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_157",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_157",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_157",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_157",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_157",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_157",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_158",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_158",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_158",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_158",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_158",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_158",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_158",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_158",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "login",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_158",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "modify_settings",
+      "timestamp": "28:58.8"
+    }
+  },
+  {
+    "reader": "tenant_158",
+    "readerType": "type1",
+    "readerLevel": "Network Admin",
+    "record": {
+      "action_type": "access_file",
+      "timestamp": "28:58.8"
+    }
+  }
+]
